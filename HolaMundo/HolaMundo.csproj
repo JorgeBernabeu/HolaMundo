@@ -100,5 +100,8 @@
   <ItemGroup>
     <Resource Include="assets\era.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="era.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
